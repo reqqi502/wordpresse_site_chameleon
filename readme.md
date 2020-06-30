@@ -1,6 +1,6 @@
 1-> installer xammp or wamp or votre serveur préféré.
 
-2-> Télécharger le fichier "wordpresse_site_chameleon/" depuis github compléte.
+2-> Télécharger le fichier "wordpresse_site_chameleon/" depuis github compléte et Vous devez le décompresser.
 
 3-> Mettre fichier "wordpress_site_chameleon" dans le dossier htdocs .
 
